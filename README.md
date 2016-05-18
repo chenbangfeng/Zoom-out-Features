@@ -1,2 +1,2 @@
 # Zoom-out-Features
-Semantic segmentation of the PASCAL image dataset using zoom-out features
+Semantic segmentation of the PASCAL image dataset using Resnet  zoom-out features
